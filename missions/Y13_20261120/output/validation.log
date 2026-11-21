@@ -1,0 +1,5 @@
+Y7   zones 948/1711 km brg 140.68 | az 139.79 kick 0.4058 b +1.228 resid 2.1 km | i_L 48.68 K_L 309.624 K_meas 310.110 dK -0.486
+Y10  zones 918/1536 km brg 142.88 | az 142.16 kick 0.4105 b +0.011 resid 0.3 km | i_L 50.72 K_L 308.322 K_meas 308.470 dK -0.147
+Y11  zones 908/1529 km brg 142.97 | az 142.27 kick 0.4126 b +0.108 resid 0.3 km | i_L 50.81 K_L 308.266 K_meas 308.697 dK -0.431
+Y12  zones 940/1698 km brg 140.10 | az 139.41 kick 0.4079 b +1.228 resid 1.0 km | i_L 48.36 K_L 309.835 K_meas 309.696 dK +0.139
+Y13  zones 982/1701 km brg 140.19 | az 139.43 kick 0.3983 b +0.448 resid 0.5 km | i_L 48.38 K_L 309.824 K_meas 309.696 dK +0.128

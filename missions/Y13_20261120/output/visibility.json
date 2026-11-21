@@ -1,0 +1,49 @@
+{
+ "definition": "Union over the powered ascent (T+0 .. S2 cutoff 1) of sea-level points seeing the vehicle at >= 10 deg elevation with their own Sun-centre altitude <= 0 deg at the same instant; clipped to the night side at the reference epoch. Self-luminous flame, not sunlight.",
+ "illumination_model": "Geometric Sun centre vs WGS84 ellipsoid, JPL DE440s; no refraction, terrain or plume size",
+ "elevation_deg": 10.0,
+ "reference_epoch_utc": "2026-11-20T12:13:47",
+ "extent": [
+  103.0,
+  148.0,
+  -22.0,
+  27.0
+ ],
+ "grid_deg": 0.08,
+ "time_step_s": 2.0,
+ "powered_interval_s": [
+  0.0,
+  828.1184092609474
+ ],
+ "powered_ascent_sunlit": false,
+ "sunlight_pickup": {
+  "t_s": 1800.2212008086672,
+  "utc": "2026-11-20T12:29:59",
+  "lat": -41.56465397275792,
+  "lon": 169.84222638583842,
+  "alt_km": 890.9187311523447,
+  "phase": "coast"
+ },
+ "sun_alt_under_vehicle_deg": {
+  "booster_sep": -29.892916169925932,
+  "s2_ignition": -30.371804598042605,
+  "s2_cutoff_1": -40.495775996568014
+ },
+ "zone_area_km2": 15721341.5118323,
+ "zone_extent": {
+  "lon": [
+   105.08185053380782,
+   144.87722419928826
+  ],
+  "lat": [
+   -18.877450980392158,
+   24.27777777777777
+  ]
+ },
+ "checks": {
+  "powered_ascent_in_shadow": true,
+  "nonempty": true,
+  "zone_inside_extent": true,
+  "no_daylight_cell": true
+ }
+}

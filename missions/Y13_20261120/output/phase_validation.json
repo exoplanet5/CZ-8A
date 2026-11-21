@@ -1,0 +1,41 @@
+[
+ {
+  "flight": "Y10",
+  "group": "2026-176",
+  "profile": "longcoast",
+  "mean_alt_km": 1100.4284490862483,
+  "lead_catalog": 4.570665180371805,
+  "lead_model": 5.135974005798857,
+  "diff_deg": 0.5653088254270529,
+  "diff_s": 10.106949767199932,
+  "relight_s": 3640.6762379323945,
+  "s2_left_kg": 5527.645353136371
+ },
+ {
+  "flight": "Y10",
+  "profile": "direct",
+  "error": "no direct-ascent solution"
+ },
+ {
+  "flight": "Y12",
+  "profile": "direct",
+  "error": "no direct-ascent solution"
+ },
+ {
+  "flight": "Y12",
+  "group": "2026-243",
+  "profile": "longcoast",
+  "mean_alt_km": 1049.146184935269,
+  "lead_catalog": -16.808940586350985,
+  "lead_model": 3.9738710417035463,
+  "diff_deg": 20.78281162805453,
+  "diff_s": 367.75290170299587,
+  "relight_s": 3617.6213645758603,
+  "s2_left_kg": 5903.24042271843
+ },
+ {
+  "flight": "Y7",
+  "profile": "direct",
+  "error": "no direct-ascent solution"
+ }
+]

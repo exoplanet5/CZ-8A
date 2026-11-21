@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "default_profile": "satnet-50",
+  "supported_families": [
+    "retrograde",
+    "polar",
+    "sso",
+    "low-inclination"
+  ],
+  "profiles": [
+    {
+      "id": "satnet-50",
+      "label": "SatNet · 50°",
+      "family": "low-inclination",
+      "default_mission": "cz8a-y13",
+      "missions": [
+        {
+          "id": "cz8a-y13",
+          "label": "CZ-8A Y13 · 20 Nov 2026",
+          "file": "data/cz8a-y13.json"
+        }
+      ]
+    }
+  ]
+}
